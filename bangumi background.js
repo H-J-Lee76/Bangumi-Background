@@ -3,7 +3,7 @@
 // @namespace    bgmsubject
 // @version      0
 // @description  Change background image of bangumi subject page with a transparent effect
-// @author       Your Name
+// @author       NICEJJ
 // @match        https://bgm.tv/subject/*
 // @grant        GM_addStyle
 // ==/UserScript==
