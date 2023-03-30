@@ -1,1 +1,1 @@
-# Bangumi Background with GPT-4
+# Bangumi Background
